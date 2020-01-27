@@ -32,17 +32,17 @@ disqus_shortname:   https-ducqhle-github-io
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:
+  analytics:        ducqhle
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
+email:              hoaiduc.khtn@gmail.com
+#twitter:           username
 facebook:           ducqhle
 github-url:         kitokip
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          ducqhle
 #xing:              username
 instagram:          ducqhle
 #lastfm:            username
@@ -50,11 +50,11 @@ instagram:          ducqhle
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
+youtube-channel:   UCdfFqw442LrJMepasApN7XQ
+soundcloud:        kitokip
 #weibo:             username
 #flickr:            username
 #codepen:           username
