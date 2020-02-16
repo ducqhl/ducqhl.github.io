@@ -22,6 +22,7 @@ comments: true
 - Mình phải làm gì để hạn chế những khó khăn đó?
 - Mình có những thuận lợi gì?
 - Mình nên làm gì để duy trì hoặc phát huy những thuận lợi đó?
+- Những ai có thể hổ trợ mình?
 - Mình sẽ bắt đầu như thế nào?
 - Mình sẽ cần chuẩn bị những gì để có khởi đầu tốt?
 - Mình cần hoàn thành những mục tiêu cụ thể nào trong thời điểm cụ thể nào?
