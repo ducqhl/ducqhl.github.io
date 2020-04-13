@@ -1,6 +1,6 @@
 # Site
 title:              Đức Lê
-bio:                'Software Engineer, Mình tin vào khả năng thay đổi bản thân và tầm nhìn xa của mình để có thể lắng nghe và chia sẽ thông điệp về sự tự do và hạnh phúc đến mọi người.'
+bio:                'Software Engineer, Mình tin vào khả năng thay đổi bản thân và sự tích cực của mình để có thể lắng nghe và chia sẽ thông điệp về sự tự do và hạnh phúc đến mọi người.'
 description:        "Đầy là blog cung cấp những kiến thức về phát triển bản thân và kinh nghiệm sống. Vì mục đích cuối cùng của chúng ta là được hạnh phúc."
 reading_time:       true
 words_per_minute:   200
@@ -39,7 +39,7 @@ google:
 #bing-verify:
 email:              hoaiduc.khtn@gmail.com
 #twitter:           username
-facebook:           ducqhle
+#facebook:           ducqhle
 #github-url:         kitokip
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          ducqhle
