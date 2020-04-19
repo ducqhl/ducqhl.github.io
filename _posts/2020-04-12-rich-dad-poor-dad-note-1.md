@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Để thoát khỏi cạm bẫy tiền bạc."
-date: 2020-02-16
+date: 2020-04-16
 excerpt: "Những ghi chú chương 1. Rich dad poor dad."
-tags: [self-help, questions]
+tags: [self-help, happyness]
 comments: true
 ---
 
