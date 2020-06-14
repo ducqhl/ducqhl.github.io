@@ -28,3 +28,9 @@ Bây giờ mình hiểu mình chính là vấn đề của chính bản thân m�
 Mình cho rằng hạnh phúc của một con khỉ đang được ăn và một con người được mặc đẹp nó về mặt sinh học chẳng khác gì nhau. Quan trọng là mình muốn đạt được và mình đã đạt được.
 
 Dẹp bớt quan các thể loại đúng sai và quan tâm hơn về việc mình muốn cái gì đi. Khi mình biết mình muốn cái gì rồi thì tìm hiểu làm sao để có cái đó. Còn nếu chẳng biết mình thích cái gì và đơn giản là cảm thấy muốn gây sự thôi thì, có lẽ, có lẽ gây sự chính là cái điều bạn đang tìm kiếm.
+
+Sau một hồi, Huy suy nghĩ cẩn thận đọc lại vài lần, Huy thấy mình viết cũng khá hay rồi, trông còn có vẽ real real nữa.
+
+Huy mạnh tay bình luận, hai tay đan đan rồi bớp bớp, khởi động chuẩn bị cải nhau trên group như mọi khi rãnh rổi ngồi không :)))
+
+> https://kitokip.github.io/
