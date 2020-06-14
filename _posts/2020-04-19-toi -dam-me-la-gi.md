@@ -3,7 +3,7 @@ layout: post
 title: "Nói gì về đam mê"
 date: 2020-04-19
 excerpt: "Câu chuyện nhỏ về đam mê."
-tags: [self-help, happyness]
+tags: [self-help, happiness]
 comments: true
 ---
 
@@ -17,11 +17,11 @@ Tôi lại hỏi, làm sao để một người có thể đam mê điều gì �
 Cô gái bảo, vui vẻ và hạnh phúc khi làm điều mình đam mê, chẳng cảm thấy mệt mỏi hay buồn phiền. Đó là cảm giác thỏa mãn được nhu cầu. Và mỗi người có nhu cầu khác nhau. Có thể là do môi trường, có thể là bẩm sinh. Và mỗi người có đam mê riêng vì họ có nhu cầu khác nhau.
 Tôi tự hỏi. Thế nhu cầu của mình là gì?
 
-Được tự do, chia sẻ và công nhận. tức những điều tôi thích là những điều tôi làm mà có thể cảm thấy sự tự do, có thể chia sẻ với mọi người và nhận được sự công nhận. Câu trả lời của tôi đó là quay phim, và đi xa. Tôi thích những góc nhìn giản gị có chút cô đơn, đó là lý do tại sao những đoạn video tôi làm thường gam màu tối và nhìn thế giới qua những điều nhỏ bé. Hạt mưa trên cửa sổ, cỏ non trong đêm giông, điếu thuốc rơi bên đường... 
-Tôi muốn đi xa và sinh sống ở nhiều đất nước khác nhau. 
+Được tự do, chia sẻ và công nhận. tức những điều tôi thích là những điều tôi làm mà có thể cảm thấy sự tự do, có thể chia sẻ với mọi người và nhận được sự công nhận. Câu trả lời của tôi đó là quay phim, và đi xa. Tôi thích những góc nhìn giản gị có chút cô đơn, đó là lý do tại sao những đoạn video tôi làm thường gam màu tối và nhìn thế giới qua những điều nhỏ bé. Hạt mưa trên cửa sổ, cỏ non trong đêm giông, điếu thuốc rơi bên đường...
+Tôi muốn đi xa và sinh sống ở nhiều đất nước khác nhau.
 
 Nhưng quay lại vấn đề, thế liệu đam mê có kiếm được tiền? Câu trả lời với nhiều người là có. Nhưng với tôi hiện tại là chưa. Vậy nên tôi dành thời gian đọc sách và nghiên cứu kinh tế. Để một ngày nào đó cuộc sống tôi sẽ không gặp vấn đề với tiền bạc.
 
-Con đường tôi đi là hạnh phúc, tôi nghĩ như thế. Có lẽ tôi sẽ đổi nghề trong năm tới. 
+Con đường tôi đi là hạnh phúc, tôi nghĩ như thế. Có lẽ tôi sẽ đổi nghề trong năm tới.
 
 Sau lần nói chuyện rất khuy đó. Cô gái chẳng còn nhắn tin với tôi nữa. Tôi cũng dần dần quên mất.
