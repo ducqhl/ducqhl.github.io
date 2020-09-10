@@ -11,10 +11,10 @@ Thành công có thể chỉ cách mình một bước chân.
 Một cơ hội sẽ đến bên cạch và hỏi tôi có làm hay không?
 
 Tuy nhiên cho đến lúc đó, mọi thứ diễn ra rất chậm rãi. Những nỗ lực đều thường không mang đến sự thay đổi rõ ràng.
-Tâm trí mỏi mệt và bẫng quên những lý do tại sao mình đưa ra quyết định. Có nhiều phương pháp đặt mục tiêu, tạo động lực để duy trì thói quen.
+Tâm trí mỏi mệt và bẫng quên những lý do tại sao mình đưa ra quyết định. Mặc dù có nhiều phương pháp đặt mục tiêu, tạo động lực để duy trì thói quen. Nhưng tôi vẫn thích giử cho cuộc sống mình đơn giản.
 
-Vậy nên, hãy học cách ghi lại. Bất cứ quyết định nào mình đưa ra trong đời đều mang một ý nghĩa nào đó, có khi chỉ là thử nghiệm.
-Việc ghi chép sẽ mất thời gian và nhàm chán nên tốt hơn là viết một điều gì đó thú vị. 
+Vậy nên, tôi học cách ghi lại. Bất cứ quyết định nào mình đưa ra trong đời đều mang một ý nghĩa nào đó, có khi chỉ là thử nghiệm.
+Việc ghi chép sẽ mất thời gian và nhàm chán nên tốt hơn tôi kèm theo một điều gì đó thú vị. 
 
 Con đường tôi đi là những trãi nghiệm sự tự do và chặng cuối là một cuộc sống hạnh phúc và thịnh vượng.
 
