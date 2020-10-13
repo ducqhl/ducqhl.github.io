@@ -2,7 +2,7 @@
 layout: post
 title: "Những câu hỏi về Senior"
 date: 2020-02-16
-excerpt: "Những câu hỏi sẽ giúp bạn làm rõ về việc trở thành chuyên gia trong lĩnh vực của bạn."
+excerpt: "Những câu hỏi..."
 tags: [self-help, questions]
 comments: true
 ---
