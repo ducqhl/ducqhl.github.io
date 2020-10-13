@@ -3,7 +3,7 @@ layout: post
 title: "Tôi nói gì khi tôi nói về một cuộc sống bình thường "
 date: 2020-10-13
 excerpt: "Phải trả bao nhiêu cho cuộc sống để nó được bình thường"
-tags: [self-opinions, happiness]
+tags: [self-opinions, happiness, cuoituanxaolon]
 comments: true
 ---
 
