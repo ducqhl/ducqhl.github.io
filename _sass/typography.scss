@@ -1,6 +1,6 @@
 // content area
 .content {
-	@include font-size(20);
+	@include font-size(10);
 	padding: 0 2rem;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased !important;
@@ -115,7 +115,7 @@ p code,
 li code,
 p pre,
 li pre {
-    @include font(20);
+    @include font(10);
     background-color: $color_gray;
     border: 1px solid $color_mischka;
     @include rounded(4px);
