@@ -7,7 +7,7 @@ tags: [self-opinions, happiness, cuoituanxaolon]
 comments: true
 ---
 
-Có một vài điều, nếu nói ra tất nhiên có vô số ngoại lệ, Nhưng Đ nghĩ là.
+Có một vài điều, Đ nghĩ là.
 
 Đọc bao nhiêu sách đi nữa, không áp dụng được đều lãng phí thời gian. Trải qua bế tắc, mấy thứ lý thuyết biết giúp được, bởi vì không có trải nghiệm. Mở miệng đều phát minh ra không thiếu định nghĩa. Nhưng sau không giải quyết được câu chuyện của mình.
 Bởi vậy, không có thứ mình muốn, nguyên nhân đơn giản, trực tiếp, thực tế là mình hoặc không đủ bản lĩnh, hoặc không có bản lĩnh.
