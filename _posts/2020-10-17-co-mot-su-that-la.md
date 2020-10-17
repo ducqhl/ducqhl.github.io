@@ -22,3 +22,6 @@ Tóm lại, muốn tán được tán gái thì phải xách mông ra đường.
 :v
 
 #cuoituanxaolon
+
+> kitokip.github.io
+> fb.com/ducqhle
