@@ -14,7 +14,7 @@ Bởi vậy, không có thứ mình muốn, nguyên nhân đơn giản, trực t
 Hoặc không muốn nó nữa, bỏ qua và đi tiếp.
 
 Viện ra vô số ngoại lệ, sự thật vẫn không thay đổi, không giúp được gì.
-Chỉ có chấp nhận sự thật. Bởi vì mình có thể lựa chọn thái độ.
+Chỉ có chấp nhận sự thật. Bởi vì mình còn có thể lựa chọn thái độ.
 Và chỉ có sự thật trần trụi nhất trả lời cho mình biết tiếp theo nên làm gì.
 
 Tóm lại, muốn tán được tán gái thì phải xách mông ra đường. Đừng có ngồi gõ status phát ngôn cái gì đọc bao nhiêu sách đi nữa ...
