@@ -12,7 +12,9 @@ feature: https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/154602312/o
 
 Trong mọi khoảnh khắc, tôi chọn tin tưởng vào bản thân.
 
-Sẽ không có ai ở đó thay tôi chịu trách nhiệm và học từ hệ quả sự ngu của mình. Tôi tin vào bản thân bởi vì đó là cách tôi trở nên tuyệt vời hơn, hoặc bớt ăn hại.
+Sẽ không có ai ở đó thay tôi chịu trách nhiệm và học từ kết quả của sự lựa chọn. Tin vào bản thân bởi vì đó là cách tôi trở nên tuyệt vời.
+
+Hãy bớt ăn hại.
 
 # 2. Xác định điều quan trọng nhất.
 
