@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về nguyên tắc thành công của tôi"
+title: "Tôi nói gì khi tôi nói về nguyên tắc"
 date: 2020-11-12
-excerpt: "Nguyên tắc thành công của Đức"
+excerpt: "Nguyên tắc của Đức là"
 tags: [happiness, selfish, cuoituanxaolon]
 comments: true
 feature: https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/154602312/original/8122f69ee57284812be8cfa9e197b9971f8effbc/create-chill-sad-music-video.jpg
