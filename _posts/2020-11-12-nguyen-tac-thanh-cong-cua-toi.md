@@ -28,7 +28,7 @@ Tôi trân trọng cảm xúc của mình, nó là nguyên liệu quan trọng x
 
 # 5. Phản ứng tích cực
 
-Hoàn cảnh + Phản ứng = Kết Quả
+**Hoàn cảnh (9%) + Phản ứng (90%) + Định Mệnh (1%) = Kết Quả**
 
 Tôi lựa chọn phản ứng tích cực để giữ cho cuộc sống mình cân bằng và vui vẽ. Tôi cân nhắc những nguyên tắc và xác định điều quan trọng nhất để đưa ra phản ứng phù hợp.
 
