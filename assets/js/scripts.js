@@ -15,6 +15,12 @@ $(function() {
   $(".content").fitVids();
 });
 
+window.onpageshow = function(event) {
+  if (event.persisted) {
+      window.location.reload() 
+  }
+};
+
 // All others
 $(document).ready(function() {
     // zoom in/zoom out animations
