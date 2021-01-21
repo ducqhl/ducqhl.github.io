@@ -39,7 +39,7 @@ Trong một tình huống đối diện thử thách và cơ hội, hai người
 
 **_Cuối cùng, nói dễ hơn làm nên là học cách viết xuống giấy_**. Dù sao cũng không chắc sẽ làm được, ít nhất mình còn có thể đem mấy cái thứ suy nghĩ ra làm vui thân mình lúc già, "tuổi trẻ ngày xưa mình cũng có lúc tham vọng thế này", đúng là chưa trãi sự đời, haha; sau đó xuống dưới nhà hỏi vợ tối nay muốn chồng nấu món gì.
 
-**Biết là nói dễ hơn làm, lúc bản thân có ý chí nhưng loay hoay mãi không thể nào tìm ra cách. Điều tích cực là đm mình mời 23 tuổi thôi mà, ra đời cho người ta bốc lột nhiều sẽ biết cách làm thôi. Thất bại thì đã sao chứ, dù sao cũng không biết làm như thế nào. Thôi thì thà thất bại cho mình khôn ra còn hơn là chai tay.**
+**Biết là nói dễ hơn làm, lúc bản thân có ý chí nhưng loay hoay mãi không thể nào tìm ra cách. Điều tích cực là đm mình mới 23 tuổi thôi mà, ra đời cho người ta bốc lột nhiều sẽ biết cách làm thôi. Thất bại thì đã sao chứ, dù sao cũng không biết làm như thế nào. Thôi thì thà thất bại cho mình khôn ra còn hơn là đôi bàn tay chai.**
 {: .notice}
 
 > .from kitokip.github.io with love
