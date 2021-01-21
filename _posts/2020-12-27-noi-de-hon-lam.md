@@ -25,12 +25,11 @@ Trở nên tốt hơn nghĩa là không có lựa chọn nào ngoài việc ph�
 Ờ, và anh nói lý thuyết thì hay lắm. Nên đời anh đã chứng tỏ là nó có thể bullshit tới mức nào.
 Ôi nó khốn nạn :)).
 
-### Ok vậy thì, 
+### Ok vậy thì,
 
 **_Thứ nhất, nói dễ hơn làm_**. Và mấy thằng thích nói chuyện lý thuyết như Đức thì đầy.
 
-
-**_Thứ hai, nói dễ hơn làm là điều dễ hiểu_**. Bởi vậy người ta nhắc đi nhắc lại khác biệt giữa mấy những đứa thành công và mấy thằng loser là về thói quen, chứ không phải là khả năng nói lý lẽ. Thói quen tư duy, thói quen làm việc, thói quen nói chuyện, thói quen chăm sóc bản thân... Mấy đứa đầu mua package đầu thai thì bug game cmnr, chừa ra.
+**_Thứ hai, nói dễ hơn làm là điều dễ hiểu_**. Bởi vậy người ta nhắc đi nhắc lại khác biệt giữa những đứa thành công và tụi loser beta là về thói quen, chứ không phải là khả năng nói lý lẽ. Thói quen tư duy, thói quen làm việc, thói quen nói chuyện, thói quen chăm sóc bản thân... Mấy đứa đầu mua package đầu thai thì bug game cmnr, chừa ra.
 
 Trong một tình huống đối diện thử thách và cơ hội, hai người có nhận xét giống nhau, một thằng tặc lưỡi chọn cái dễ vì nó an toàn và không đau đớn. Thằng còn lại dù sợ trong lòng, không thấy thoải mái nhưng vẫn chọn làm việc rủi ro hơn. Nó nghĩ dù thất bại cũng học được nhiều hơn, cơ hội làm lại thì không thiếu, thay vì để bản thân thoải mái với những thứ an toàn, nó sẽ phải sống một cuộc sống tầm thường, nghèo nàn. Nó chọn rèn giũa bản thân bằng những thử thách. Nó nhắc nhở bản thân hướng đến những thứ tích cực như "I feel so good", "onii chan", "shī mèi, wo lai la"... Ờ, nói chung và tóm lại thì thằng ml thứ 2 theo thói quen đưa bản thân vào những tình huống khắm hơn, dù cũng chưa biết cách vượt qua như thế nào. Theo thuyết cục nước đá, nó sẽ thành công hơn vì trãi nghiệm giúp nó bồi đắp skill và tâm lý kiên định để làm được những tư..., điều khó hơn.
 
