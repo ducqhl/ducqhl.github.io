@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Kitokip
+title: About the kitokip
 tags: [about]
 date: 2016-03-21
 comments: false
