@@ -4,7 +4,7 @@ bio: "Đọc blog này khi mày nghĩ mày éo thể sống tốt hơn được 
 description: "Đây là nơi mình viết những đạo lý dạy đời cho mấy thằng ml như mình đọc để ước mong một ngày được giác ngộ."
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
+logo: "assets/img/logo.jpg"
 background: "assets/img/placeholder-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
