@@ -15,14 +15,6 @@ feature: assets/img/code.jpg
 Một ngày nọ, khi những hôm mưa đã thành lệ thường vào mỗi chiều. Mày vì điều gì đó vẫn xách lap ra quán cafe ngồi cặm cụi đọc những tài liệu cơ bản của một thằng thợ code. Rồi cơn mưa đánh những hạt nước rơi trên cuốn sách mày lật dỡ. Như một tiếng thở dài, mày không hiểu tại sao mình lại kẹt ở đây với những suy nghĩ ngổn ngang này. 
 Mày bâng khuâng, nghe nhạc của Mr. Siro nên mày thấy buồn, tủi, xót xa. Mày hiểu là anyway mình không có nhiều lựa chọn. Rồi mày thắc mắc, tại sao mày ngồi bỏ hằng giờ với các thứ quy tắc và công nghệ khi một ngày nào đó mày không code nữa. 
 
-Bùm. Một thằng ml hiện ra và bằng thứ giọng tự tin pha khinh bỉ tính dạy đời mày. 
-
-- Cút (in đậm, caps lock).
-  
-Mày dứt khoát không nghe thêm điều gì vì đã quá ngán ngẩm với những thằng thích chém gió và xem thường tư duy của người khác.
-
-Thế là mày hết một chiều ngồi suy nghĩ, mày nghiệm ra.
-
 **Thứ nhất, điều mày muốn không phải là code tốt mà là có một sản phẩm chất lượng cao.** Để có chất lượng cao thì nó nhất quyết  phải được viết bằng những đoạn code tốt. Để code tốt thì người viết ra chúng phải cần trình độ và thời gian nghiên cứu, luyện tập. Lý do tạo sao mày phải code tốt. Bỏ thời gian đọc sách, nghiên cứu nhiều nguồn để code mày vững như kiền 3 chân. Kẹp giữa đơn giản và hiệu quả, chân giữa đảm bảo sự linh động, mở rộng tốt và tính bền vững.
 
 **Thứ hai, một sản phẩm thường lại không thể được viết ra từ một người duy nhất**. Sản phẩm sinh ra từ việc được xây dựng ở trên và đảm bảo ở dưới  - sự cân bằng, giao thoa và cộng hưởng từ điểm điểm mạnh của từng thành viên. Những mâu thuẫn xảy ra đảm bảo sản phẩm được cân nhấc tốt trên nhiều phương diện nhất có thể. Code tốt chỉ là một phần của công trình đó. Không có sản phẩm thì không có gì cả. Lý do tại sao code mày tốt cũng không thể giúp mày cua người mẫu được.
