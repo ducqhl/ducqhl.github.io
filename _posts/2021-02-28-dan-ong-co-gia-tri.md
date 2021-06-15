@@ -8,10 +8,6 @@ comments: true
 feature: assets/img/quote_3.jpg
 ---
 
-Đức nghĩ gì khi Đức nói về trở thành một thằng đàn ông có giá trị.
-Từ một người tự ti, yếu đuối trong cảm xúc và sơ sài về ngoại hình đến khi trở thành một người xoay xở được với hiện tại.
-
-
 ## Tốt hơn mày nên là một thằng đàn ông có giá trị
 
 Sự tự tin của một thằng đàn ông được xây dựng từ những giá trị mà hắn sở hữu. Được bồi đắp qua những khó khăn, và được khẳng định bằng sự nghiệp và danh tiếng.
@@ -33,7 +29,7 @@ Cuộc sống này có rất nhiều điều tuyệt vời. Còn rất nhiều �
 
 ## Vấn đề đầu tiên là phải thành một thằng đàn ông trước.
 
-Một thằng ml thích nói chuyện lý thuyết như Đức ở 23 tuổi thì làm gì được gọi là đàn ông (trừ một số lúc khi trả bài). Và nói chung thì không có sự thật duy nhất đúng trong khái niệm này. 
+Một thằng ml thích nói chuyện lý thuyết như Đức ở 23 tuổi thì làm gì được gọi là đàn ông. Và dù nói chung thì không có sự thật duy nhất đúng trong khái niệm này. 
 
 Quan điểm của Đức thì có một vài nguyên tắc, thực hiện lặp đi lặp lại để từ từ nhận ra bản thân sẽ thoải mái là chính mình với những điều gì:
 
