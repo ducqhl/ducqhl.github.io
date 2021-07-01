@@ -25,12 +25,15 @@ Lời khuyên của một thánh nhân khuyết danh - *"đừng trở thành ng
 
 Còn lời khuyên của Đức - *"điều quan trọng là tập trung vào bản thân"*.
 
-Dù *"người khác hay không người khác, không làm mà muốn có ăn thì ăn cái nịt, còn mỗi cái nịt thôi"*.
+Dù *"người khác hay không người khác, không làm mà muốn có ăn thì c*t."*.
 
+Ở, buân khuâng lo lắng đằng nào rồi cũng phải xách mông lên cho cuộc đời chà đạp để cuối tháng  gửi cho mấy tờ polime trả tiền điện net.
 
-Có một sự thật là hầu hết mọi người không có điều gì đó vì anh ta không biết điều anh ta muốn có là gì.
-Và nếu mình hiểu rõ bản thân mình muốn cái gì rồi, mà vẫn thấy không biết làm sao thì có nghĩa là nó vẫn còn mơ hồ.
-Nhưng nó mơ hồ quá thì mình dễ bỏ qua và lại tiếp tục một ngày nữa dù không biết bản thân mình cách vạch đích bao xa. Vòng luẩn quẩn ấy ta kéo theo ta hết ngày đoạn tháng.
+Có một sự thật, là hầu hết mọi người không có điều gì đó vì anh ta không biết điều anh ta muốn có là gì.
+Nếu nghĩ bản thân hiểu rõ mình muốn gì rồi, mà vẫn thấy không biết làm sao thì có nghĩa là nó vẫn còn mơ hồ.
+Mơ hồ quá thì lại dễ bỏ qua và tiếp tục một ngày nữa không biết bản thân mình cách vạch đích bao xa. 
+
+Vòng luẩn quẩn ấy ta kéo theo ta hết ngày đoạn tháng.
 
 Những lúc cảm giác chán nản đến, điều quan trọng là 
 
