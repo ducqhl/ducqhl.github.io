@@ -31,8 +31,6 @@ Dù *"người khác hay không người khác, không làm mà muốn có ăn t
 
 Có một sự thật, là hầu hết mọi người không có điều gì đó vì anh ta không biết điều anh ta muốn có là gì. Nếu nghĩ bản thân hiểu rõ mình muốn gì rồi, mà vẫn thấy không biết làm sao thì có nghĩa là nó vẫn còn mơ hồ. Mơ hồ quá thì lại dễ bỏ qua và tiếp tục một ngày nữa không biết bản thân mình cách vạch đích bao xa. Vòng luẩn quẩn ấy ta kéo theo ta hết ngày đoạn tháng...
 
-Buồn thay trông cửa bể chiều hôm, thuyền ai thấp thoáng cánh buồm xa xa? Buồn trông ngọn nước mới sa, Hoa trôi man mác biết là về đâu? Haiz, cúc nở chi cúc mang sầu, thân trai vất vã về nhà còn phải đội vợ lên đầu.
-
 Những lúc cảm giác chán nản đến, điều quan trọng là 
 
 # Cứ bình tĩnh mà sống
