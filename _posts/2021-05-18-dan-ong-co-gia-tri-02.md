@@ -25,15 +25,13 @@ Lời khuyên của một thánh nhân khuyết danh - *"đừng trở thành ng
 
 Còn lời khuyên của Đức - *"điều quan trọng là tập trung vào bản thân"*.
 
-Dù *"người khác hay không người khác, không làm mà muốn có ăn thì c*t."*.
+Dù *"người khác hay không người khác, không làm mà muốn có ăn thì chỉ có ăn ct."*.
 
-Ở, buân khuâng lo lắng đằng nào rồi cũng phải xách mông lên cho cuộc đời chà đạp để cuối tháng  gửi cho mấy tờ polime trả tiền điện net.
+Ở đời, buân khuâng lo lắng đằng nào rồi cũng phải xách mông lên cho cuộc đời chà đạp để cuối tháng xin cho mấy tờ polime trả tiền điện net.
 
-Có một sự thật, là hầu hết mọi người không có điều gì đó vì anh ta không biết điều anh ta muốn có là gì.
-Nếu nghĩ bản thân hiểu rõ mình muốn gì rồi, mà vẫn thấy không biết làm sao thì có nghĩa là nó vẫn còn mơ hồ.
-Mơ hồ quá thì lại dễ bỏ qua và tiếp tục một ngày nữa không biết bản thân mình cách vạch đích bao xa. 
+Có một sự thật, là hầu hết mọi người không có điều gì đó vì anh ta không biết điều anh ta muốn có là gì. Nếu nghĩ bản thân hiểu rõ mình muốn gì rồi, mà vẫn thấy không biết làm sao thì có nghĩa là nó vẫn còn mơ hồ. Mơ hồ quá thì lại dễ bỏ qua và tiếp tục một ngày nữa không biết bản thân mình cách vạch đích bao xa. Vòng luẩn quẩn ấy ta kéo theo ta hết ngày đoạn tháng...
 
-Vòng luẩn quẩn ấy ta kéo theo ta hết ngày đoạn tháng.
+Buồn thay trông cửa bể chiều hôm, thuyền ai thấp thoáng cánh buồm xa xa? Buồn trông ngọn nước mới sa, Hoa trôi man mác biết là về đâu? Haiz, cúc nở chi cúc mang sầu, thân trai vất vã về nhà còn phải đội vợ lên đầu.
 
 Những lúc cảm giác chán nản đến, điều quan trọng là 
 
@@ -46,7 +44,7 @@ Những lúc cảm giác chán nản đến, điều quan trọng là
 - Viết mọi thứ xuống để nhìn nhận mọi thứ khách quan hơn
 
 
-> À, p/s: mua và xài bàn chải điện đi, tao thấy cái đó tốt á dude.
+Cuối cùng, mày đéo máy mắn như mày nghĩ đâu :).
 
 
 
