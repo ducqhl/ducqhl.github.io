@@ -5,7 +5,7 @@ date: 2022-01-04
 excerpt: "Tốt hơn mày thì mày nên tự tin lên."
 tags: [happiness, cuoituanxaolin]
 comments: true
-feature: assets/img/realman.jpeg
+feature: assets/img/realman.jpg
 ---
 
 #CTXL
