@@ -15,11 +15,15 @@ feature: assets/img/realman.jpeg
 Khi mày tự ti so sánh mình và người khác, tiếc buồn thay cho bản thân mình vì những điều người ta có, còn mày thì không. 
 Tiền bạc, danh tiếng, phụ nữ, tính cách, tài năng, quan hệ xã hội. 
 
-Buồn không? Hai mấy năm cuộc đời, mười mấy năm đầu đèn sách, trái buổi lên nương, vài hôm ra rẩy. Thêm mấy năm cao đẳng trốn học đánh game. Thế một ngày nọ mày thấy những điều mày từng thấy, nhưng chợt đã nghĩ khác đi. Những bộ quần áo mày mặc, cái xe mày đi, đầu tóc dài lộn xộn và gương mặt gầy gò hốc hác. 
+Buồn không? Hai mấy năm cuộc đời, mười mấy năm đầu đèn sách, trái buổi lên nương, vài hôm ra rẩy. Thêm mấy năm cao đẳng trốn học đánh game. Thế một ngày nọ mày thấy những điều mày từng thấy, nhưng chợt đã nghĩ khác đi. Những bộ quần áo mày mặc, cái xe mày đi, đầu tóc dài lộn xộn và gương mặt gầy gò hốc hác. Công việc chẳng có gì thú vị, đồng nghiệp chán ngắt. Đi đi về về thời gian trôi qua vô vị. Một hôm mày nhìn vào gương, gương mặt ấy đầy mụn và râu chưa cạo. Nhìn xung quanh trong căn phòng lộn xộn, quần áo chưa giặt, sàn nhà chưa lau, cái ba lô mày vứt vội lên giường chăn gối xộc xệ. Cái toilet lâu ngày không cọ, trên gương đầy vết bọt đánh răng bám đầy. 
 
-Mày cũng như tao, ai chẳng có phút yếu lòng khi nghĩ về hiện tại, tương lai quá mù mịt ta chẳng tỏ được đường. Những âm thanh về thành công, sự nghiệp và một cuộc sống sa sỉ vẳng bên tai. Những con số trên môi họ, những nơi đã đi, những điều đã trải. 
+Hôm này mới thứ hai, mày sẽ tiếp tục giết thời gian trong căn phòng thôi vì ra đường cũng chẳng có gì thú vị. Một thằng đàn ông như mày, có phải đã xảy ra chuyện gì hoặc đã không xảy ra chuyện gì khiến mình không còn mục tiêu như vậy.
 
-Nhìn lại cuộc sống mình sao đơn điệu. Mày tự hỏi, bây giờ mình nên làm gì. Đốt một điều thuốc rít vào, những suy nghĩ dần tan trong từng hơi thở, rồi cười.
+Mày cũng như tao, ai chẳng có phút yếu lòng khi nghĩ về hiện tại, tương lai thì xa vời và mù mịt ta chẳng tỏ được đường. Những âm thanh về thành công, sự nghiệp và một cuộc sống sa sỉ vẳng bên tai. Những con số trên môi họ, những nơi đã đi, những điều đã trải. 
+
+Nhìn lại cuộc sống mình sao đơn điệu. Mày tự hỏi, bây giờ mình nên làm gì. 
+
+Một đêm như thế, trong một ngày rất lạnh, nhìn ra con đường hàng xe vẫn chạy. Đốt một điều thuốc rít vào, những suy nghĩ dần tan trong từng hơi thở, rồi cười.
 
 Khi ấy, tao đã nghĩ về những ngày con nhỏ, ngày nắng noi trốn ngủ trưa ra vườn câu cá. Tao chẳng biết có ai ngoài kia hạnh phúc hơn tao để mà so sánh. Tao chỉ nhìn thấy mình qua cái bóng dưới nước, vị ngọt của trái cò ke trong miệng tao nhai như trầu. Xung quanh tao cũng chẳng có bạn, chỉ một mình lầm lủi sau hè. Núi đá cao nhìn ra chân trời là những cánh đồng nối bao la dấu mình dưới những ngọn núi. Tâm trí như chạy nhảy trên mây, tao ước mình đi xa hơn để xem bên kia những ngọn núi ấy có gì. Những ngọn cỏ nghe lời gió ngã sang một phía, tao nằm nghĩ về cô gái tao thương, sao người ta dễ thương như thế nhỉ? 
 
