@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nghe tôi nói về những chuyện hằng ngày."
+title: "Nghe tôi xaolin về những xảy ra chuyện hằng ngày."
 date: 2021-05-23
 excerpt: "Tốt hơn mày nên đọc tao mỗi ngày."
 tags: [happiness, selfish, cuoituanxaolin, ctxl]
