@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về hành trình thằng đàn ông trở nên tự tin hơn"
+title: "Nghe tôi xamlin về chuyện con trai fuckup"
 date: 2022-01-04
 excerpt: "Tốt hơn mày thì mày nên tự tin lên."
 tags: [happiness, cuoituanxaolin]
@@ -10,7 +10,7 @@ feature: assets/img/realman.jpg
 
 #CTXL
 
-# Con đường trở thành người đàn ông tự tin (P1)
+# Hãy trở thành người đàn ông Fuckup
 
 Tất thảy dù là điều gì, tạo sao mày không thử đi pha một ly cafe nóng, cầm ra hiên, hít một chút khí trời se lạnh tháng 12. Mày cảm thấy gì? Với tao, đó là những niềm vui nhỏ bé nhưng ấm áp. Dù là có chuyện gì xảy ra đi nữa, vẫn có thể bình yên tận hưởng thời gian của mình, khoảng khắc của mình. Đó là thế giới của riêng mình, một nơi sẽ luôn bình yên chờ đón mày, không còn những lo toan và so đo. Những giá trị mày sở hữu, những niềm vui mày trân trọng. Vui với niềm vui của mình, chẳng ai bảo mày phải làm gì cả.
 

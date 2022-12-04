@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về chuyện đầu tư"
+title: "Nghe tôi xaolin về chuyện nguyên tắc đầu tư"
 date: 2022-12-04
 excerpt: "Tốt hơn mày thì mày nên đọc tao mỗi khi đặt lệnh"
 tags: [dautu, cuoituanxaolin, realman]
