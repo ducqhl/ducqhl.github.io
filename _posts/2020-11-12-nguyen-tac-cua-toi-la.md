@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về nguyên tắc"
+title: "Nghe tôi xamlin về chuyện nguyên tắc"
 date: 2020-11-12
 excerpt: "Nguyên tắc của Đức là"
 tags: [happiness, selfish, cuoituanxaolin]

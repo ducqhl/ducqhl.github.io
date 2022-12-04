@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về một cuộc sống bình thường "
+title: "Nghe tôi xamlin về một cuộc sống bình thường "
 date: 2020-10-13
 excerpt: "Phải trả bao nhiêu cho cuộc sống để nó được bình thường"
 tags: [self-opinions, happiness, cuoituanxaolin]

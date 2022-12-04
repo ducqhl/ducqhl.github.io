@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về nói dễ hơn làm"
+title: "Nghe tôi xamlin về chuyện nói về nói dễ hơn làm"
 date: 2020-11-12
 excerpt: "Khi mình giỏi nói lý thuyết, còn đời dạy bằng thực hành."
 tags: [happiness, selfish, cuoituanxaolin]

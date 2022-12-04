@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Đọc tao mỗi ngày"
+title: "Nghe tôi nói về những chuyện hằng ngày."
 date: 2021-05-23
 excerpt: "Tốt hơn mày nên đọc tao mỗi ngày."
 tags: [happiness, selfish, cuoituanxaolin, ctxl]
@@ -50,9 +50,3 @@ feature: assets/img/huanrose.jpg
 - Muốn tiến lên vị trí tiếp theo thì phải làm tốt những công việc của vị trí hiện tại.
 
 - Kiểm soát năng lượng. Nếu mày dành thời gian và năng lượng quá nhiều cho những thứ linh tinh, mày sẽ không còn đủ năng lượng để làm những điều quan trọng nhất. Hoặc là không còn đủ năng lượng để kiểm soát cuộc sống của mình.
-
-*Okie. Theo dõi các bài viết của Đức tại blog [kitokip.github.io](https://kitokip.github.io) để có những góc nhìn và câu chuyện thú vị về một thằng ất ơ IT thích đi dạy đời và toàn nói lý thuyết.* 
-
-*Chúc các bạn bớt ăn hại và có một ngày tốt lành.*
-
-*Cheer.*

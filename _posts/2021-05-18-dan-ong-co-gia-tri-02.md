@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tôi nói gì khi tôi nói về làm một thằng đàn ông có giá trị (phần 2) - Bình tĩnh sống."
+title: "Nghe tôi xamlin về chuyện con trai - Bình tĩnh sống."
 date: 2021-02-28
 excerpt: "Tốt hơn mày nên là một thằng đàn ông có giá trị."
 tags: [happiness, selfish, cuoituanxaolin]
