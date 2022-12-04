@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tôi nói gì khi tôi nói về chuyện đầu tư"
-date: 2022-01-04
+date: 2022-12-04
 excerpt: "Tốt hơn mày thì mày nên đọc tao mỗi khi đặt lệnh"
 tags: [dautu, cuoituanxaolin, realman]
 comments: true
