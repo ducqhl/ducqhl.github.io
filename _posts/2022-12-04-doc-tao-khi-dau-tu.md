@@ -5,7 +5,7 @@ date: 2022-01-04
 excerpt: "Tốt hơn mày thì mày nên đọc tao mỗi khi đặt lệnh"
 tags: [dautu, cuoituanxaolin, realman]
 comments: true
-feature: assets/img/realman.jpg
+feature: assets/img/chill.jpg
 ---
 
 Tiếp tục chuyên mục cuối tuần xaolin, nói thì dễ làm thì khó. Trích từ sách Phù Thuỷ Chứng Khoán.
