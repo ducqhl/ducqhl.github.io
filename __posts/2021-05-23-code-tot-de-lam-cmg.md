@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nghe tôi xamlin về chuyện code tốt."
+title: "Nghe tôi xaolin về chuyện code tốt."
 date: 2021-05-23
 excerpt: "Tốt hơn mày nên viết ra code tốt."
 tags: [happiness, selfish, cuoituanxaolin, ctxl]

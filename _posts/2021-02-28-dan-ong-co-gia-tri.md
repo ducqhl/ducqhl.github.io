@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nghe tôi xamlin về chuyện con trai - P1"
+title: "Nghe tôi xaolin về chuyện con trai - P1"
 date: 2021-02-28
 excerpt: "Tốt hơn mày nên là một thằng đàn ông có giá trị."
 tags: [happiness, selfish, cuoituanxaolin]

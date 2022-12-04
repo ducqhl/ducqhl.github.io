@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nghe tôi xamlin về sự thay đổi"
+title: "Nghe tôi xaolin về sự thay đổi"
 date: 2020-09-10
 excerpt: "Bởi vì sự thay đổi xảy ra rất chậm, nên đừng có fuktup"
 tags: [self-opinions, happiness]
