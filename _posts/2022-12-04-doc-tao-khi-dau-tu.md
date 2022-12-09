@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện nguyên tắc đầu tư"
+title: "Nghe tôi xaml về chuyện nguyên tắc đầu tư"
 date: 2022-12-04
 excerpt: "Tốt hơn mày thì mày nên đọc tao mỗi khi đặt lệnh"
-tags: [dautu, cuoituanxaolin, realman]
+tags: [dautu, cuoituanxaml, realman]
 comments: true
 feature: assets/img/chill.jpg
 ---
 
-Tiếp tục chuyên mục cuối tuần xaolin, nói thì dễ làm thì khó. Trích từ sách Phù Thuỷ Chứng Khoán.
+Tiếp tục chuyên mục cuối tuần xaml, nói thì dễ làm thì khó. Trích từ sách Phù Thuỷ Chứng Khoán.
 
 - Bình tĩnh - chờ thời cơ.
 - Giao dịch dựa trên ý tưởng và phong cách riêng của bạn.

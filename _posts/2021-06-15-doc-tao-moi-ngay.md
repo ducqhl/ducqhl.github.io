@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về những xảy ra chuyện hằng ngày."
+title: "Nghe tôi xaml về những xảy ra chuyện hằng ngày."
 date: 2021-05-23
 excerpt: "Tốt hơn mày nên đọc tao mỗi ngày."
-tags: [happiness, selfish, cuoituanxaolin, ctxl]
+tags: [happiness, selfish, cuoituanxaml, ctxl]
 comments: true
 feature: assets/img/huanrose.jpg
 ---
 
 #CTXL
-#cuoituanxaolin`
+#cuoituanxaml`
 
 ***Updated: 17 Jun, 2021.***
 

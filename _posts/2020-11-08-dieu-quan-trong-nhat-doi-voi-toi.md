@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện điều quan trọng nhất "
+title: "Nghe tôi xaml về chuyện điều quan trọng nhất "
 date: 2020-11-08
 excerpt: "Điều tôi quan trọng nhất, chắc vậy"
 tags: [happiness, selfish]

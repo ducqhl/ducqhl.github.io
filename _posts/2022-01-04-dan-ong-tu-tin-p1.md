@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện con trai fuckup"
+title: "Nghe tôi xaml về chuyện con trai fuckup"
 date: 2022-01-04
 excerpt: "Tốt hơn mày thì mày nên tự tin lên."
-tags: [happiness, cuoituanxaolin]
+tags: [happiness, cuoituanxaml]
 comments: true
 feature: assets/img/realman.jpg
 ---

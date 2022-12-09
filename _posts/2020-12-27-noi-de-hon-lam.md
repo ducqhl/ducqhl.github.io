@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện nói về nói dễ hơn làm"
+title: "Nghe tôi xaml về chuyện nói về nói dễ hơn làm"
 date: 2020-11-12
 excerpt: "Khi mình giỏi nói lý thuyết, còn đời dạy bằng thực hành."
-tags: [happiness, selfish, cuoituanxaolin]
+tags: [happiness, selfish, cuoituanxaml]
 comments: true
 feature: https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/154602312/original/73a9fa2826b65574183c74d622d5bd919a0ad5e2/create-chill-sad-music-video.jpg
 ---

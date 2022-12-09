@@ -3,7 +3,7 @@ layout: post
 title: "Tôi nói gì khi tôi nói về có một sự thật là"
 date: 2020-10-17
 excerpt: "Có một sự thật là"
-tags: [self-opinions, happiness, cuoituanxaolin]
+tags: [self-opinions, happiness, cuoituanxaml]
 comments: true
 ---
 
@@ -21,7 +21,7 @@ Tóm lại, muốn tán được tán gái thì phải xách mông ra đường.
 
 :v
 
-#cuoituanxaolin
+#cuoituanxaml
 
 > kitokip.github.io
 

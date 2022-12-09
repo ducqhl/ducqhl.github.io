@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện con trai - Bình tĩnh sống."
+title: "Nghe tôi xaml về chuyện con trai - Bình tĩnh sống."
 date: 2021-02-28
 excerpt: "Tốt hơn mày nên là một thằng đàn ông có giá trị."
-tags: [happiness, selfish, cuoituanxaolin]
+tags: [happiness, selfish, cuoituanxaml]
 comments: true
 feature: assets/img/cat1.png
 ---

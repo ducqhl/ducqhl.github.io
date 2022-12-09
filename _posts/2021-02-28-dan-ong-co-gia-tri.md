@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện con trai - P1"
+title: "Nghe tôi xaml về chuyện con trai - P1"
 date: 2021-02-28
-excerpt: "Tốt hơn mày nên là một thằng đàn ông có giá trị."
-tags: [happiness, selfish, cuoituanxaolin]
+excerpt: "Tốt hơn mày nên là một thằng đàn ông có giá trị"
+tags: [happiness, selfish, cuoituanxaml]
 comments: true
 feature: assets/img/quote_3.jpg
 ---
@@ -71,7 +71,7 @@ Bởi vì rất nhiều thứ sau này sẽ phụ thuộc vào sự nghiệp và
 ## Làm cho cuộc sống mình thú vị
 
 Đơn giản là làm những gì mình thích. Chụp ảnh, guitar, gặp bạn bè, cưa gái...
-Những điều mình có thể làm làm ở ngay trong thành phố của mình, đi dạo phố, tìm kiếm cảm hứng. Viết lách một chút, post bài xaolin. Sẽ cô đơn một khoảng thời gian, nhưng nếu mày tập trong vào sự nghiệp, mày sẽ gặp được những người có điểm chung ở các clb, quán cf, sự kiện, trên phố đi bộ...
+Những điều mình có thể làm làm ở ngay trong thành phố của mình, đi dạo phố, tìm kiếm cảm hứng. Viết lách một chút, post bài xaml. Sẽ cô đơn một khoảng thời gian, nhưng nếu mày tập trong vào sự nghiệp, mày sẽ gặp được những người có điểm chung ở các clb, quán cf, sự kiện, trên phố đi bộ...
 
 Dù sao thì, cứ làm điều mày muốn, chăm lo cho sự nghiệp. Giữ cho cuộc sống tích cực. Mọi thứ sẽ ổn thôi.
 

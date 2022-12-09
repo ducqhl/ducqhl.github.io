@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Nghe tôi xaolin về chuyện code tốt."
+title: "Nghe tôi xaml về chuyện code tốt."
 date: 2021-05-23
 excerpt: "Tốt hơn mày nên viết ra code tốt."
-tags: [happiness, selfish, cuoituanxaolin, ctxl]
+tags: [happiness, selfish, cuoituanxaml, ctxl]
 comments: true
 feature: assets/img/code.jpg
 ---
 
-#CTXL #cuoituanxaolin`
+#CTXL #cuoituanxaml`
 ## Tại sao mình phải code giỏi khi một ngày nào đó mình sẽ không code nữa?
 
 Một ngày nọ, khi những hôm mưa đã thành lệ thường vào mỗi chiều. Mày vì điều gì đó vẫn xách lap ra quán cafe ngồi cặm cụi đọc những tài liệu cơ bản của một thằng thợ code. Rồi cơn mưa đánh những hạt nước rơi trên cuốn sách mày lật dỡ. Như một tiếng thở dài, mày không hiểu tại sao mình lại kẹt ở đây với những suy nghĩ ngổn ngang này. 
