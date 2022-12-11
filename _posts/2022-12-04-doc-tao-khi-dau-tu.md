@@ -25,3 +25,7 @@ Tìm kiếm một hình mẫu trong lý thuyết thay vì là tìm hiểu nhữn
 Suy nghĩ quá nhiều về chuyện người khác sẽ nghĩ gì về chuyện mình làm.
 
 Suy nghĩ quá ít về những thứ đã đánh mất thay vì những thứ sắp đánh mất.
+
+Dành ít thời gian cho gia đình
+
+Ngại để bước ra ngoài và trải nghiệm những điều hay ho hơn là nhốt mình trong phòng chơi game.
