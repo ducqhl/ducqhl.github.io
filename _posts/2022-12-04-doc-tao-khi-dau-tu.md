@@ -29,3 +29,5 @@ Suy nghĩ quá ít về những thứ đã đánh mất thay vì những thứ s
 Dành ít thời gian cho gia đình
 
 Ngại để bước ra ngoài và trải nghiệm những điều hay ho hơn là nhốt mình trong phòng chơi game.
+
+Không đọc sách văn học thế giới nhiều hơn.
